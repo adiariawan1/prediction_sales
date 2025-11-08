@@ -1,5 +1,5 @@
 Hasil Akhir (Yang Positif)
-Metrik Model: Anda akhirnya melaporkan MAE: 63.78 dan MSE: 78032.55 untuk model XGBoost Anda.
+Metrik Model:  melaporkan MAE: 63.78 dan MSE: 78032.55 untuk model XGBoost Anda.
 
 Performa Model: Ini adalah peningkatan signifikan (sekitar 36%) dari baseline naif Anda (MAE: 99.75). Model Anda jelas memberikan value.
 
